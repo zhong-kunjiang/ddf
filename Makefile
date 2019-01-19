@@ -1,7 +1,7 @@
 
 code_dir := $(shell pwd)
 
-# TODO: Add a global build system
+# TODO: Add a global build systemxx
 
 .PHONY: all
 all:
